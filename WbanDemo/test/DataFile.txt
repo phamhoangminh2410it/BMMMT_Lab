@@ -1,0 +1,15 @@
+2025-03-19 01:06:32.573014
+HEART :: Systole value: 85
+HEART :: Distole value: 471
+HEART :: Beats per min: 67
+BYE
+2025-03-19 01:08:54.745033
+HEART :: Systole value: 53
+HEART :: Distole value: 291
+HEART :: Beats per min: 67
+BYE
+2025-03-26 08:34:16.530141
+HEART :: Systole value: 40
+HEART :: Distole value: 298
+HEART :: Beats per min: 71
+BYE
